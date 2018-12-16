@@ -1,0 +1,11 @@
+{"oyunlar":[
+  { 
+  "oyunID":1,
+  "oyunadi":"World Of Warcraft" },
+  {
+  "oyunID":2,
+  "oyunadi":"Metin 2"},
+  {
+  "oyunID":3,
+  "oyunadi":"Silkroad"}
+]}
